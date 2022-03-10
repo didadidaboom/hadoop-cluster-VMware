@@ -1,0 +1,2 @@
+# run mapper.py and reduce.py in terminal
+cat test.txt|python mapper.py|sort|python reducer.py
