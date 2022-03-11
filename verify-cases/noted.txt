@@ -1,2 +1,5 @@
 # run mapper.py and reduce.py in terminal
 cat test.txt|python mapper.py|sort|python reducer.py
+
+# run mrjob with hadoop file system. make sure to remove output file before running mrjob
+python mrWordCount.py -r hadoop hdfs:///test/test.txt -o hdfs:///output
