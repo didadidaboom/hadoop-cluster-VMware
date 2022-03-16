@@ -14,3 +14,9 @@
   + practices: verify-cases
 + Warning
   + the version of JDK should not be larger than 8.
+
+# hive
++ requirement: installed JDK and Hadoop
++ mysql on docker
+  + install docker and create mysql container
++ setting(file): hive(including updated bash_profile and inputs)
