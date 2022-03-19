@@ -22,5 +22,11 @@
 + setting(file): hive(including updated bash_profile and inputs)
 
 # sqoop
++ link: https://archive.apache.org/dist/sqoop
 + warning: put file of "common-lang-2.6.jar" under $SQOOP_HOME/lib
 + common-lang-2.6.jar: https://mvnrepository.com/artifact/commons-lang/commons-lang/2.6
+
+# HBase
++ link: https://archive.apache.org/dist/hbase/
++ settings (file): hbasetmp
+
