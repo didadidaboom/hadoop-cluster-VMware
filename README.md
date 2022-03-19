@@ -20,3 +20,7 @@
 + mysql on docker
   + install docker and create mysql container
 + setting(file): hive(including updated bash_profile and inputs)
+
+# sqoop
++ warning: put file of "common-lang-2.6.jar" under $SQOOP_HOME/lib
++ common-lang-2.6.jar: https://mvnrepository.com/artifact/commons-lang/commons-lang/2.6
