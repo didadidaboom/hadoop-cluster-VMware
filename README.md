@@ -30,3 +30,6 @@
 + link: https://archive.apache.org/dist/hbase/
 + settings (file): hbasetmp
 
+# Spark
++ link: https://archive.apache.org/dist/spark/
+
